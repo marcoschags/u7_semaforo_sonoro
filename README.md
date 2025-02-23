@@ -23,4 +23,4 @@ Loop principal (main)
 Monitora continuamente o botão A.
 Quando pressionado, inicia o ciclo do semáforo.
 
-Link do vídeo: ____________________
+Link do vídeo: https://www.youtube.com/watch?v=i1UzHlPstmo
